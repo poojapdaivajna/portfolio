@@ -192,6 +192,7 @@ img {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
   margin-left: -129px;
+  margin-top: 185px;
 }
 .home__title-color {
   color: var(--first-color);
@@ -216,7 +217,7 @@ img {
   width: 260px;
 }
 .home__blob {
-  fill: var(--first-color);
+  fill: hsl(224deg 40.98% 88.13%);
 }
 .home__blob-img {
   width: 360px;
