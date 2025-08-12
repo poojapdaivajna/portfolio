@@ -217,7 +217,8 @@ img {
   width: 260px;
 }
 .home__blob {
-  fill: hsl(224deg 40.98% 88.13%);
+  margin-bottom: -38%;
+  fill: hsl(224deg 40.98% 88.13%) !important;
 }
 .home__blob-img {
   width: 360px;
@@ -428,6 +429,7 @@ img {
     padding-bottom: 3rem;
   }
   .section-title {
+    margin-top: 7%;
     margin-bottom: var(--mb-6);
   }
   .section-title::after {
