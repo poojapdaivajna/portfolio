@@ -248,6 +248,7 @@ img {
 }
 .about__img {
   justify-self: center;
+  padding-right: 40%;
 }
 .about__img img {
   width: 200px;
